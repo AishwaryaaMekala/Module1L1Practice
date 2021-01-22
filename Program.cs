@@ -11,7 +11,7 @@ namespace Module1L1Practice
             int x;
             int y;
             x = 3;
-            y = 4;
+            y = 5;
             int sum = x + y;
             //Console.WriteLine("x + y is " + sum);
 
